@@ -1,6 +1,6 @@
 # Testing React Apps
 
-Learning react testing.
+Practicing react testing.
 
 ## About this Project
 
